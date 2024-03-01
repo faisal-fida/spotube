@@ -21,7 +21,7 @@ export default function Song() {
             <button className="p-2 bg-zinc-500/20 rounded-full" onClick={() => setShowPlayer(true)}> 
               <PlayIcon className="h-6 w-6 text-white bg-black rounded-full p-1" />
             </button>
-            {showPlayer && <Player />}
+           
             </div>
           </div>
           <div className="pt-2">
@@ -29,7 +29,12 @@ export default function Song() {
             <div className="text-xs text-gray-400">{song.artists.join(", ")}</div>
           </div>
         </div>
+        {showPlayer && <Player songName={song.title} />}
         </div>
+        
       ))}
-  </div>
+      {/* Player componenet with song name as argument */}
+      
+
+ </div>
 )};
