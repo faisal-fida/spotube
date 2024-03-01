@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Tum Hi Ho",
+        "artists": ["Arijit Singh", "Mithoon"],
+        "cover": "https://img.youtube.com/vi/0OH5PoXbTR8/maxresdefault.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Tera Ban Jaunga",
+        "artists": ["Tulsi Kumar", "Akhil Sachdeva"],
+        "cover": "https://img.youtube.com/vi/0OH5PoXbTR8/maxresdefault.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Tera Yaar Hoon Main",
+        "artists": ["Arijit Singh", "Rochak Kohli"],
+        "cover": "https://img.youtube.com/vi/0OH5PoXbTR8/maxresdefault.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Tera Hone Laga Hoon",
+        "artists": ["Atif Aslam", "Alisha Chinai"],
+        "cover": "https://img.youtube.com/vi/0OH5PoXbTR8/maxresdefault.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Tera Fitoor",
+        "artists": ["Arijit Singh", "Himesh Reshammiya"],
+        "cover": "https://img.youtube.com/vi/0OH5PoXbTR8/maxresdefault.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Tere Bina",
+        "artists": ["Arijit Singh", "Aakanksha Sharma"],
+        "cover": "https://img.youtube.com/vi/0OH5PoXbTR8/maxresdefault.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Tere Sang Yaara",
+        "artists": ["Atif Aslam", "Arko"],
+        "cover": "https://img.youtube.com/vi/0OH5PoXbTR8/maxresdefault.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Tere Liye",
+        "artists": ["Lata Mangeshkar", "Roop Kumar Rathod"],
+        "cover": "https://img.youtube.com/vi/0OH5PoXbTR8/maxresdefault.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Tere Bina",
+        "artists": ["A.R. Rahman", "Chinmayi"],
+        "cover": "https://img.youtube.com/vi/0OH5PoXbTR8/maxresdefault.jpg"
+    }
+]
